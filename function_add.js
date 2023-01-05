@@ -6,3 +6,6 @@ function addUsers(){
     return "users adionado com sucesso"
 }
 
+function sendSaudacao(){
+    return `Hello word`
+}
